@@ -32,5 +32,11 @@
     <string>We need access to your files to encrypt them</string>
     <key>NSFileAccessUsageDescription</key>
     <string>We need access to your files to encrypt them</string>
+    <key>NSDocumentsFolderUsageDescription</key>
+    <string>Need access to documents</string>
+    <key>NSDownloadsFolderUsageDescription</key>
+    <string>Need access to downloads</string>
+    <key>NSDesktopFolderUsageDescription</key>
+    <string>Need access to desktop</string>
 </dict>
 </plist>
