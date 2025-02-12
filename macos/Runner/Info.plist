@@ -28,5 +28,9 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>NSAppleEventsUsageDescription</key>
+    <string>We need access to your files to encrypt them</string>
+    <key>NSFileAccessUsageDescription</key>
+    <string>We need access to your files to encrypt them</string>
 </dict>
 </plist>
