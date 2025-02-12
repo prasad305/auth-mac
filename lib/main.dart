@@ -16,6 +16,7 @@ class _MyAppState extends State<MyApp> {
 
   void encryptFile() async {
     String? path = await encryptor.pickFile();
+    print(path);
     if (path != null) {
       String encryptedPath = await encryptor.encryptFile(path);
       setState(() {
